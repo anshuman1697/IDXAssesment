@@ -6,11 +6,23 @@ VlocityDataPackKeys:
     - CpqConfigurationSetup/CpqCachePvtKey
     - CpqConfigurationSetup/CpqNextPricingPlan
     - VlocityCard/cpqAssetViewerContainer
+    - flexipages/Default_Opportunity_CPQ_Record_Page.flexipage
     - flexipages/DefaultAccountESMRecordPage1.flexipage
     - flexipages/DefaultCPQOrderRecordPage.flexipage
     - flexipages/DefaultCPQQuoteRecordPage.flexipage
+    - lwc/cfCpqAdvancedSearchLineItem
+    - lwc/cfCpqAssetViewerAdvancedSearch
+    - lwc/cfCpqAssetViewerChildLineItem
     - lwc/cfCpqAssetViewerContainer
-    - flexipages/Default_Opportunity_CPQ_Record_Page.flexipage
+    - lwc/cfCpqAssetViewerGroupLineItems
+    - lwc/cfCpqAssetViewerLineItem
+    - lwc/cfCpqAssetViewerSelectAllAssets
+    - lwc/cfCpqCartInlineChildPromoForAssetViewer
+    - lwc/cfCpqCartInlinePromoForAssetViewer
+    - lwc/cfCpqPromotionDetailViewForAssetViewer
+    - lwc/cfCpqSpinner
+    - lwc/cPQAssetViewerOrderFlowMultiLanguage
+    - lwc/cPQAssetViewerQuoteFlowMultiLanguage
 VlocityTypesToFetch:
     - CpqConfigurationSetup
     - OmniScript
