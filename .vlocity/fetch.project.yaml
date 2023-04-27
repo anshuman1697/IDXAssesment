@@ -19,10 +19,12 @@ VlocityDataPackKeys:
     - lwc/cfCpqAssetViewerSelectAllAssets
     - lwc/cfCpqCartInlineChildPromoForAssetViewer
     - lwc/cfCpqCartInlinePromoForAssetViewer
+    - lwc/cfCpqMultisiteGroupSelectorContainer
     - lwc/cfCpqPromotionDetailViewForAssetViewer
     - lwc/cfCpqSpinner
     - lwc/cPQAssetViewerOrderFlowMultiLanguage
     - lwc/cPQAssetViewerQuoteFlowMultiLanguage
+    - lwc/cfCpqCartDetailViewContainer
 VlocityTypesToFetch:
     - CpqConfigurationSetup
     - OmniScript
